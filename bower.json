@@ -1,0 +1,18 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "homepage": "https://github.com/brainsail/test-repo",
+  "authors": [
+    "Dave Davis <dgd.code@gmail.com>"
+  ],
+  "description": "Test Repo for Automation Scripts",
+  "main": "index.js",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
