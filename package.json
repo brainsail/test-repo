@@ -1,6 +1,6 @@
 {
   "name": "release-tool",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A Tool for Release Automation",
   "main": "index.js",
   "scripts": {
