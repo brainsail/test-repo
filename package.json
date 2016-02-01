@@ -1,19 +1,19 @@
 {
-  "name": "test-repo",
-  "version": "1.0.6",
-  "description": "Test Repo For Automation Scripts",
+  "name": "release-tool",
+  "version": "1.0.7",
+  "description": "A Tool for Release Automation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/brainsail/test-repo.git"
-  },
   "author": "Dave Davis",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/brainsail/test-repo/issues"
-  },
-  "homepage": "https://github.com/brainsail/test-repo#readme"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-git": "^1.7.0",
+    "gulp-sequence": "^0.4.4",
+    "jshint": "^2.9.1",
+    "require-dir": "^0.3.0"
+  }
 }
